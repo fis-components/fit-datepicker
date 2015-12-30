@@ -7,9 +7,9 @@
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.1",
-        "fit-style": "^1.0.31",
+        "fit-style": "^1.0.33",
         "jquery": "^2.1.4",
         "react": "^0.14.3"
     },
-    "version": "0.1.29"
+    "version": "0.1.31"
 }
