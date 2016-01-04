@@ -7,12 +7,12 @@
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.1",
-        "fit-style": "^1.1.7",
-        "fit-timepicker": "^0.2.8",
+        "fit-style": "^1.1.9",
+        "fit-timepicker": "^0.2.10",
         "jquery": "^2.1.4",
         "lodash": "^3.10.1",
         "react": "^0.14.3",
         "react-date-range": "^0.1.8"
     },
-    "version": "0.2.8"
+    "version": "0.2.10"
 }
