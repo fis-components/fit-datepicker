@@ -8,11 +8,11 @@
     "dependencies": {
         "classnames": "^2.2.1",
         "fit-style": "^1.1.9",
-        "fit-timepicker": "^0.2.10",
+        "fit-timepicker": "^0.2.11",
         "jquery": "^2.1.4",
         "lodash": "^3.10.1",
         "react": "^0.14.3",
         "react-date-range": "^0.1.8"
     },
-    "version": "0.2.11"
+    "version": "0.2.13"
 }
