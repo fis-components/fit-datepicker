@@ -1,0 +1,12 @@
+{
+    "name": "fit-datepicker",
+    "description": "tb react datapicker",
+    "repos": "https://github.com/tb-component/datepicker.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "fit-style": "^1.1.9"
+    },
+    "version": "0.2.13"
+}
